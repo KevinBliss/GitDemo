@@ -1,8 +1,12 @@
-
 public class MainClass {
 	
 	public void sillyMethod(){
 		System.out.println("this is a silly method");
+		
+	}
+	
+	public void addedMethod(){
+		System.out.println("hey buddy");
 		
 	}
 
